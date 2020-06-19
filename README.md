@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Project Demo
 
-![Demo]()
+![Demo](./src/assets/output.gif)
 
 ## Development server
 
